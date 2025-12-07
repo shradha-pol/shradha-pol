@@ -1,6 +1,6 @@
 <p align="center">
-  🌸  Hey there, I'm <b>Shradha Pol</b> 🌸<br>
-  ✨ Aspiring Data Analyst ✨
+ <h1>🌸 Hey there, I'm <b>Shraddha Pol</b> 🌸</h1>
+ <h3>💻📊📈 <b>Aspiring Data Analyst</b> 🔍📑📋</h3>
 </p>
 
 <p align="center">
