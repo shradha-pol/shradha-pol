@@ -13,7 +13,7 @@
 
 ## 🛠️ Tech Stack  
 
-  <b>Tools & Technologies I Love:</b><br>
+  <b>Tools & Technologies I Love:</b><br><br>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-3C3C3C?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005E86?style=flat&logo=mysql&logoColor=white"/>
