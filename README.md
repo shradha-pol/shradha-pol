@@ -6,7 +6,7 @@
 <p align="center">
   ✨ Welcome to my little corner of GitHub ✨<br>
   I love exploring data, building simple projects, and growing my tech skills one day at a time.<br>
-  My goal is to create work that is <b>clean, meaningful, and beginner-friendly</b> 🌼
+  My goal is to create work that is <b>clean, meaningful, and beginner-friendly</b> 
 </p>
 
 <hr>
