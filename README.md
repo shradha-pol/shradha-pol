@@ -1,7 +1,7 @@
-<p align="center">
-  <h1>🌸<b>Hey there, I'm Shraddha Pol</b>🌸</h1><br>
-   💻📊Aspiring Data Analyst📈🔍
-</p>
+<div align="center">
+  <h1>🌸 <b>Hey there, I'm Shradha Pol</b> 🌸</h1>
+  <h3>💻📊 Aspiring Data Analyst 📈🔍</h3>
+</div>
 
 <p align="center">
   ✨ Welcome to my little corner of GitHub ✨<br>
