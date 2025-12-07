@@ -1,5 +1,5 @@
 <p align="center">
-  🌸<b>Hey there, I'm Shraddha Pol</b>🌸<br>
+  <h1>🌸<b>Hey there, I'm Shraddha Pol</b>🌸</h1><br>
    💻📊Aspiring Data Analyst📈🔍
 </p>
 
