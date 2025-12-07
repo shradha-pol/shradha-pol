@@ -1,12 +1,12 @@
 <p align="center">
-  🌸  Hey there, I'm <b>Shraddha Pol</b> 🌸<br>
+  🌸  Hey there, I'm <b>Shradha Pol</b> 🌸<br>
   ✨ Aspiring Data Analyst ✨
 </p>
 
 <p align="center">
-  ✨ Welcome to my little corner of GitHub ✨<br><br>
+  ✨ Welcome to my little corner of GitHub ✨<br>
   I love exploring data, building simple projects, and growing my tech skills one day at a time.<br>
-  My goal is to create work that is <b>clean, meaningful, and beginner-friendly</b> 🌼
+  My goal is to create work that is <b>clean, meaningful, and beginner-friendly</b> 
 </p>
 
 <hr>
@@ -43,7 +43,7 @@
 ## 🤝 Let’s Connect  
 
   <b>Reach Out to Me:</b><br><br>
-  🌐 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/shradhapolofficial/">Shraddha Pol</a><br>
+  🌐 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/shradhapolofficial/">Shradha Pol</a><br>
   📧 <b>Email:</b> polshraddha019@gmail.com
 
 
