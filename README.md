@@ -30,7 +30,7 @@
 <hr>
 
 ## 🌱 What I’m Currently Learning  
-<p align="center">
+
   <b>Skills I’m Leveling Up On:</b><br><br>
   - SQL (Queries, Joins, Subqueries)<br>
   - Excel (Dashboards, Pivot Tables, VLOOKUP)<br>
