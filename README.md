@@ -12,7 +12,7 @@
 <hr>
 
 ## 🛠️ Tech Stack  
-<p align="center">
+
   <b>Tools & Technologies I Love:</b><br><br>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-3C3C3C?style=flat&logo=postgresql&logoColor=white"/>
@@ -36,21 +36,21 @@
   - Excel (Dashboards, Pivot Tables, VLOOKUP)<br>
   - Python for Data Analysis<br>
   - Power BI Reports & Dashboards
-</p>
+
 
 <hr>
 
 ## 🤝 Let’s Connect  
-<p align="center">
+
   <b>Reach Out to Me:</b><br><br>
   🌐 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/shradhapolofficial/">Shraddha Pol</a><br>
   📧 <b>Email:</b> polshraddha019@gmail.com
-</p>
+
 
 <hr>
 
-<p align="center">
+
   💗 Thank You for Visiting!<br>
   Let’s connect, learn, and grow—one repo at a time.<br><br>
   You bring the snacks, I’ll bring the code 🍪💻
-</p>
+
