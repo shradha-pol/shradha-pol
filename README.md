@@ -1,6 +1,6 @@
 <p align="center">
-  🌸<b><h1>Hey there, I'm Shraddha Pol</h1></b>🌸<br>
-   💻📊 <h3>Aspiring Data Analyst</h3> 📈🔍
+  🌸<b>Hey there, I'm Shraddha Pol</b>🌸<br>
+   💻📊Aspiring Data Analyst📈🔍
 </p>
 
 <p align="center">
